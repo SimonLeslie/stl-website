@@ -31,6 +31,13 @@ body {
   color: #333;
 }
 
+.int-link,
+.int-link:hover,
+.int-link:focus {
+  color: #333;
+  text-decoration: underline;
+}
+
 .pad-below {
   padding-bottom: 10px;
 }
